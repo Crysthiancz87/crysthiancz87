@@ -22,7 +22,7 @@ sempre baseando os estudos de forma a manter a excelência do que já foi criado
 Fico feliz em receber sugestões que irão agregar nesta nova jornada e caso eu possa contribuir com algo, fico a disposição.
 <br>
 <br>
-Segue meu <a href="www.linkedin.com/in/crysthiancz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem-In"> <a/>.
+Segue meu <a href="www.linkedin.com/in/crysthiancz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem-In"> <a/>
 
 
 [![CrysthianCZ87 stats](https://github-readme-stats.vercel.app/api?username=crysthiancz87)](https://github.com/anuraghazra/github-readme-stats)
