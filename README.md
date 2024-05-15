@@ -1,4 +1,4 @@
-Saudações :raised_hand:
+Greetings :raised_hand:
 
 I'm Crysthian, a technology and development enthusiast.
 <br>
