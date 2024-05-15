@@ -1,10 +1,10 @@
 Saudações :raised_hand:
 
-Sou o Crysthian, fazendo a transição de carreira e aprendendo mais sobre tecnologia e desenvolvimento.
+I'm Crysthian, a technology and development enthusiast.
 <br>
-Estou cursando o <a href="https://rodolfomori.com.br/devclub-n1/">DevClub</a> e aprendendo sobre Front End, Back End, Full Stack e Análise de dados.
+I'm practicing <a href="https://rodolfomori.com.br/devclub-n1/">DevClub</a> and training in Front End, Back End, Full Stack and Data Analysis..
 <br>
-Atualmente tenho conhecimentos em:
+I currently have knowledge in:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="imagem-HTML">
@@ -14,15 +14,16 @@ Atualmente tenho conhecimentos em:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="imagem-JS">
 <br>
 <br>
-Sendo apenas o começo, pois já estão no plano de estudos vários outros programas e habilidades que vou desenvolver para ser um profissional da área.
-Sendo estes: Clean Code, Angular, React, TypeScript, Java, SpringBoot, SQL, dentre vários outros.
+This is just the beginning, as several other programs and skills that I will develop to be a professional in the field are already in the study plan.
+These being: Clean Code, Angular, React, TypeScript, Java, SpringBoot, SQL, among many others.
 <br>
-sempre baseando os estudos de forma a manter a excelência do que já foi criado mesclando com as possibilidades que as novas tecnologias podem trazer para melhorar ainda mais a eficiência da codificação e a experiência do usuário. 
-
-Fico feliz em receber sugestões que irão agregar nesta nova jornada e caso eu possa contribuir com algo, fico a disposição.
+always basing studies in order to maintain the excellence of what has already been created, mixing with the possibilities that new technologies can bring
+to further improve coding efficiency and user experience. 
+<br>
+I am happy to receive suggestions that will add to this journey and if I can contribute something, I am at your disposal.
 <br>
 <br>
-Segue meu <a href="www.linkedin.com/in/crysthiancz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem-In"> <a/>
+My <a href="www.linkedin.com/in/crysthiancz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="imagem-In"> <a/>
 
 
 [![CrysthianCZ87 stats](https://github-readme-stats.vercel.app/api?username=crysthiancz87)](https://github.com/anuraghazra/github-readme-stats)
