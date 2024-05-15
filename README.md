@@ -1,6 +1,6 @@
 Greetings :raised_hand:
 
-I'm Crysthian, a technology and development enthusiast, practicing <a href="https://rodolfomori.com.br/devclub-n1/">DevClub</a> and training in Front End, Back End, Full Stack and Data Analysis..
+I'm Crysthian, a technology and development enthusiast | Front End, Back End, Full Stack and Data Analysis..
 <br>
 I currently have knowledge in:
 <br>
